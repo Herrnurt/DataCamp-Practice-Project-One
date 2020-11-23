@@ -1,1 +1,1 @@
-### DataCamp-Project-Practice
+### DataCamp Practice Projects
